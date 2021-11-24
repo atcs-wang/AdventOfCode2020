@@ -1,0 +1,504 @@
+[
+  Placed_Tile {
+    tile: Tile { id: 1499, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2963, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2659, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2111, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2557, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3631, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1721, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2789, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3617, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1741, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1451, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1709, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1259, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1163, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1901, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3067, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2383, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1697, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1381, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3049, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3469, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2087, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1483, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2647, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3917, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1289, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1103, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1039, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2999, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3727, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1871, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2141, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3847, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3119, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1987, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3919, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1153, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3329, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2287, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1117, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3313, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3019, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3511, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1439, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1879, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1831, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2677, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2089, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2063, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2909, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2203, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1933, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2447, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2341, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3181, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3863, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1699, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3803, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3769, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3137, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3167, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2131, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1069, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3461, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3623, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1087, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2633, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2269, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2663, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2099, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3163, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2671, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2857, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2381, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1321, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3823, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1447, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3169, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1327, _sides: [Array] },
+    rotation: 1,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 3571, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2897, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3251, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1597, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1733, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2029, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3643, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 3637, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1373, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1549, _sides: [Array] },
+    rotation: 2,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1279, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 2797, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1291, _sides: [Array] },
+    rotation: 2,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2837, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 1543, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1511, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1979, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1973, _sides: [Array] },
+    rotation: 3,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1277, _sides: [Array] },
+    rotation: 3,
+    orientation: 0
+  },
+  Placed_Tile {
+    tile: Tile { id: 2711, _sides: [Array] },
+    rotation: 1,
+    orientation: 1
+  },
+  Placed_Tile {
+    tile: Tile { id: 1013, _sides: [Array] },
+    rotation: 0,
+    orientation: 1
+  },
+  ... 44 more items
+]
+14129524957217
